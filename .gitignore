@@ -1,0 +1,16 @@
+.venv/
+__pycache__/
+*.pyc
+
+vector_store/
+embeddings/
+
+telemetry.db
+
+.env
+
+.vscode/
+
+.ipynb_checkpoints/
+
+data/processed/
