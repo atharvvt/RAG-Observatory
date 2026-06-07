@@ -4,9 +4,7 @@ from app.chunking import TextChunker
 
 loader = DocumentLoader()
 
-documents = loader.load_directory(
-        "data/raw"
-    )
+documents = loader.load_directory("data/raw")
 
 
 chunker = TextChunker(
