@@ -1,5 +1,84 @@
-Retrieval-Augmented Generation (RAG) combines retrieval systems with large language models.
+Understanding AI/ML use cases
+Published April 15, 2026
 
-RAG helps reduce hallucinations by grounding responses in external knowledge.
+Artificial intelligence (AI) generally refers to processes and algorithms that are able to simulate human intelligence, including mimicking cognitive functions such as perception, learning and problem solving. Machine learning (ML) and deep learning (DL) are subsets of AI that use algorithms to identify patterns and make predictions within a set of data. Under ideal conditions, machine learning allows humans to interpret data more quickly and more accurately than we could on our own.
 
-Embeddings are numerical representations of text.
+AI/ML is quickly transforming the way businesses operate with wide-reaching applications across industries and within organizations. It is important to understand the benefits and prepare for the challenges of AI/ML that are specific to your business processes and workloads.
+
+Explore generative AI use cases
+
+Explore predictive AI use cases
+
+Business benefits and challenges
+AI/ML is increasingly being used to simplify, improve, and scale a variety of business functions, including:
+
+Data and analytics. AI/ML can automate data entry, storage, and security, while also collecting predictive business analytics.
+Customer support. Chatbots and call classification systems use natural language processing (NLP) to serve customers quickly and elevate complex requests to the correct channels.
+Operations. Robotic process automation (RPA) is the use of software robots to perform repetitive tasks previously done by humans. When used alongside AI, it can parse through unstructured datasets with a pace and accuracy that manual processes cannot match.
+Marketing and sales. Deep learning algorithms can help marketers collect analytics about consumers to inform strategy and personalize marketing campaigns. For salespeople, AI can process information to quickly develop leads.
+Human resources. Bots trained on foundational AI models can be useful in reviewing candidate profiles during the hiring process. Employee satisfaction surveys can also be collected and analyzed using artificial neural networks, so that positive changes can be implemented quickly.
+When implementing these solutions and others, it is important to mitigate common challenges faced with AI/ML, including bias and “black box” AI. These flaws can be especially problematic in regulated industries like healthcare, criminal justice, and finance. As organizations deploy AI/ML programs for improved productivity and performance, it’s critical that strategies are put in place to minimize bias and increase transparency. This begins with frequent retraining and maintenance as well as inclusive design processes and thoughtful consideration of representative diversity within collected data.
+
+What is Model-as-a-Service?
+
+Recommended for you
+
+Optimizing Openshift Mirroring in Disconnected Environments - Leveraging oc mirror v2
+Watch the webinar
+AI/ML for healthcare
+New advancements in AI can improve patient outcomes by helping doctors and other medical practitioners deliver more accurate diagnoses and treatment plans. A few of the ways that AI in healthcare can benefit patients, providers, and administrators include:
+
+Faster diagnosis. Data insights processed by AI algorithms and real-time predictive analytics can be used to speed up diagnosis, meaning that patients receive care faster.
+Expanded access to healthcare offerings. AI assisted diagnosis can widen patient groups receiving services. For example, AI-assisted radiology and medical imaging could allow a larger number of professionals to interpret ultrasounds, which could reduce the bottleneck on a handful of specialists, and expand the number of patients who have access to the technology.
+Drug discovery and clinical research. Computational AI tools can enhance traditional trial-and-error approaches to clinical studies and pharmaceutical development, and allow for quicker and more efficient models to monitor the entire process. 
+AI/ML for telecommunications
+AI/ML is increasingly being used to streamline different parts of the telecommunications industry, such as optimizing 5G network performance and enhancing the quality of telecommunications products and services. Applications include: 
+
+Quality of service. AI is used for network performance optimization, taking the data collected by a telecommunications provider and analyzing it for traffic volume, slowdowns, and outages. It can then use this data to recommend necessary actions.
+Audio/visual enhancements. Natural language processing and computer vision can enhance video and voice clarity to improve the quality of calls.
+Churn prevention. Speech recognition technology can listen to calls with current and prospective customers and conduct sentiment analysis to understand the behavior that leads to closing or renewal. This can also be applied to other industries. 
+
+AI/ML for manufacturing
+Intelligent automation is transforming how businesses manufacture their products, from the factory floor to storage facilities and shipping routes.
+
+Robots. Industrial robots are being installed throughout factories and manufacturing centers to reduce the burden of repetitive or dangerous tasks on human workers, like package sorting and handling heavy machinery. This reduces the risk of human error.
+Supply chain management. Machine learning can review supply chain logistics and conduct inventory management to predict the best times for shipping and stocking.
+Industrial analytics. Industrial analytics can rely on AI/ML algorithms to take stock of manufacturing performance from beginning to end in order to identify bottlenecks and implement more effective workflows.
+Red Hat and Guise AI on edge AI-powered visual inspection
+
+AI/ML for government
+Artificial intelligence and machine learning are helping government agencies around the world solve critical challenges and serve the interests of the public. 
+
+Improved public services. AI/ML tools can gather data about the usage and efficacy of public services, such as transportation, sanitation, and social services, and use that data to inform new offerings and improve existing ones.
+Data management. Natural language processing is a helpful tool to sort and manage public records, reducing the amount of time and effort required to understand qualitative data. AI-based cybersecurity solutions can also mitigate threat exposure and accelerate incident response to better product public data.
+Data-driven policymaking. The predictive capabilities of artificial intelligence and machine learning make it possible to inform public policy with data-informed predictions and evidence-based solutions. 
+Learn how NASA relies on Red Hat’s AI platforms
+
+AI/ML for retail and e-commerce
+People interact with AI/ML every day on retail and e-commerce websites. Here’s how it shows up while we shop: 
+
+Personalized recommendations. AI/ML tracks customer behavior online and uses that information to provide personalized recommendations via digital advertising or on-site interactions.
+Chatbots. Chatbots can be helpful customer experience tools, but they can also act as automated sales associates. Chatbots use natural language processing to understand a user’s needs and help them find what they’re looking for.
+Automated checkout. Some businesses use AI technology to further streamline self-checkout by visually scanning items and routing the correct charges to a customer’s account.
+Understand AI for the enterprise 
+
+AI/ML for autonomous vehicles
+As electric and autonomous vehicles have grown in popularity, so has the need for safe and innovative programming to get people where they need to go.  
+
+Vehicle perception and driving assistants. Computer vision tools like blind spot detectors and intelligent braking systems help drivers detect and react to objects around them, such as other cars, pedestrians, and roadblocks.
+Self-driving cars. AI/ML technologies are essential in making autonomous vehicles safe for drivers and those around them, from adaptive cruise control and navigation to lane departure systems and automatic braking.
+Predictive maintenance. Machine learning algorithms gather data from a vehicle to predict what components are most likely to break down and recommend the proper maintenance ahead of time. 
+AI/ML for education
+NLP technologies like ChatGPT are popular for academic writing and research, but AI/ML has many more applications that support learning.
+
+Intelligent course design. Generative AI can support educators in researching and organizing the necessary elements of a course. It can also generate course content and assignments.
+Research assistants. When conducting research, AI tools can act as virtual assistants to help scour the internet and databases for relevant learning materials and pull out specific areas of interest.
+Tutoring. AI/ML can increase access to tutoring for students who need support by creating study materials and personalized knowledge checks. 
+Red Hat OpenShift AI supports educational tools at Boston University
+
+AI/ML for finance
+Today’s financial services organizations use AI/ML to develop apps that deliver measurable outcomes like increased customer satisfaction, diversified service offerings, and greater business automation. 
+
+Fraud detection. Banks rely on machine learning to detect fraudulent and unsafe transactions and alert customers in real time. Voice authentication learns a user’s unique vocal patterns to protect accounts and grant access to only the right people.
+Invoicing. AI automates repetitive invoicing and administrative tasks to reduce costs and errors.
+Investments. Investment firms are using deeping learning to research investment opportunities and enhance their algorithms for more accurate forecasting.
