@@ -20,3 +20,6 @@ paths:
   raw_data: data/raw
   processed_data: data/processed
   vector_store: vector_store
+
+retrieval:
+  top_k: 5
