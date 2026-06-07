@@ -50,9 +50,8 @@ class DocumentLoader:
                 return None
 
             return Document(
-                content=text,
+                text=text,
                 source=file_path.name,
-                file_type=suffix,
             )
 
         except Exception as e:

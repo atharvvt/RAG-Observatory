@@ -1,9 +1,14 @@
 from dataclasses import dataclass
-from pathlib import Path
 
 
 @dataclass
 class Document:
-    content: str
+    text: str
     source: str
-    file_type: str
+
+
+@dataclass
+class Chunk:
+    chunk_id: str
+    text: str
+    source: str
